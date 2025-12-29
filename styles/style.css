@@ -1,6 +1,6 @@
 * {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 body {
@@ -46,9 +46,7 @@ header {
   background-color: #4f9cf9;
   border-radius: 8px;
   padding: 16px 24px;
-  gap: 10; 
-  /* width: 227px;
-  height: 60px; */
+  gap: 10;
   border: none;
 }
 
@@ -65,7 +63,7 @@ header {
 
 .management {
   background: #f8fafc;
-  color: rgb(13, 12, 12);
+  color: #0D0C0C;
   align-items: center;
   display: flex;
   justify-content: space-evenly;
@@ -77,9 +75,7 @@ header {
   border-radius: 8px;
   padding: 16px 24px;
   gap: 10;
-  /* width: 227px;
-  height: 60px; */
-  border: none; 
+  border: none;
 }
 
 .m-work {
@@ -111,7 +107,7 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-evenly;
-  padding: 140px 220px; 
+  padding: 140px 220px;
 }
 
 .extension .button {
@@ -119,9 +115,7 @@ header {
   border-radius: 8px;
   padding: 16px 24px;
   gap: 10;
-  /* width: 227px;
-  height: 60px; */
-  border: none; 
+  border: none;
 }
 
 .costomise {
@@ -130,7 +124,7 @@ header {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-  padding: 140px 220px;  
+  padding: 140px 220px;
 }
 
 .costomise h2 {
@@ -148,17 +142,15 @@ header {
   border-radius: 8px;
   padding: 16px 24px;
   gap: 10;
-  /* width: 227px;
-  height: 60px; */
   border: none;
   margin: 25px;
 }
 
 /* Pricing Section */
 .pricing {
-    padding: 80px 6%;
-    background-color: #f8fafc;
-    text-align: center;
+  padding: 80px 6%;
+  background-color: #f8fafc;
+  text-align: center;
 }
 
 /* Heading Text */
@@ -189,11 +181,10 @@ header {
   border: 3px solid #facc15; /* Yellow */
 }
 
-
 /* Base Card */
 .card,
 .card-2 {
-  background-color: #ffffff;
+  background-color: #fff;
   border-radius: 14px;
   padding: 40px 30px;
   width: 320px;
@@ -205,7 +196,7 @@ header {
 /* Highlighted Card (Middle) */
 .card-2 {
   background-color: #2563eb;
-  color: #ffffff;
+  color: #fff;
   transform: scale(1.05);
 }
 
@@ -217,7 +208,7 @@ header {
 }
 
 .card-2 .card-title {
-  color: #ffffff;
+  color: #fff;
 }
 
 /* Price */
@@ -231,7 +222,6 @@ header {
 .card-2 .price {
   color: #facc15; /* Yellow */
 }
-
 
 /* Text */
 .card p,
@@ -288,9 +278,10 @@ header {
 
 /* Highlight Card Button */
 .btn1 {
-  background-color: #ffffff;
+  background-color: #fff;
   color: #2563eb;
 }
+
 .working {
   background-color: #043873; /* Deep blue */
   color: #ffffff;
@@ -315,9 +306,7 @@ header {
   background-color: #4f9cf9;
   border-radius: 8px;
   padding: 16px 24px;
-  gap: 10; 
-  /* width: 227px;
-  height: 60px; */
+  gap: 10;
   border: none;
 }
 
@@ -350,7 +339,6 @@ header {
 
 .sponsor h2 {
   font-size: 5rem;
-  /* line-height: 30px; */
   margin-bottom: 65px;
 }
 
@@ -370,7 +358,6 @@ header {
 .app {
   background-color: #043873;
   padding: 140px 220px;
-  /* height: 650.8px; */
   align-items: center;
   justify-content: space-evenly;
   display: flex;
@@ -416,19 +403,19 @@ header {
   padding: 30px 25px;
   border-radius: 12px;
   text-align: left;
-  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 8%);
 }
 
 /* Light Card */
 .card-ligth {
-  background-color: #ffffff;
+  background-color: #fff;
   color: #374151;
 }
 
 /* Blue Card */
 .card-blue {
   background-color: #2563eb; /* Blue */
-  color: #ffffff;
+  color: #fff;
 }
 
 /* Quote Icon */
@@ -457,7 +444,7 @@ header {
 
 .card-blue hr {
   border: none;
-  border-top: 1px solid rgba(255, 255, 255, 0.3);
+  border-top: 1px solid rgba(255, 255, 255, 30%);
   margin: 20px 0;
 }
 
@@ -491,7 +478,7 @@ header {
 /* CTA trial */
 .trial {
   background-color: #043873; /* Blue background */
-  color: #ffffff;
+  color: #fff;
   text-align: center;
   padding: 80px 20px;
 }
@@ -511,7 +498,7 @@ header {
 
 /* Button */
 .trial button {
-  background-color: #ffffff;
+  background-color: #fff;
   color: #2563eb;
   border: none;
   padding: 14px 32px;
@@ -539,7 +526,7 @@ header {
 /* Footer */
 footer {
   background-color: #043873; /* Deep blue */
-  color: #ffffff;
+  color: #fff;
   padding: 70px 6% 30px;
   font-family: Arial, sans-serif;
 }
@@ -604,7 +591,7 @@ footer {
 }
 
 .footer-cta button {
-  background-color: #ffffff;
+  background-color: #fff;
   color: #1e40af;
   border: none;
   padding: 12px 26px;
@@ -621,7 +608,7 @@ footer {
 .footer-cta hr {
   margin-top: 25px;
   border: none;
-  border-top: 1px solid rgba(255, 255, 255, 0.3);
+  border-top: 1px solid rgba(255, 255, 255, 30%);
 }
 
 /* Bottom Section */
@@ -629,7 +616,7 @@ footer {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border-top: 1px solid rgba(255, 255, 255, 0.25);
+  border-top: 1px solid rgba(255, 255, 255, 25%);
   padding-top: 20px;
   flex-wrap: wrap;
   gap: 20px;
@@ -669,7 +656,6 @@ footer {
    MOBILE RESPONSIVENESS
    ========================= */
 @media (max-width: 768px) {
-
   /* GENERAL */
   body {
     max-width: 100%;

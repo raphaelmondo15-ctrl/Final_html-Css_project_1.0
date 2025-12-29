@@ -63,7 +63,7 @@ header {
 
 .management {
   background: #f8fafc;
-  color: #0D0C0C;
+  color: #0d0c0c;
   align-items: center;
   display: flex;
   justify-content: space-evenly;
@@ -284,7 +284,7 @@ header {
 
 .working {
   background-color: #043873; /* Deep blue */
-  color: #ffffff;
+  color: #fff;
   padding: 140px 220px;
   font-family: Arial, sans-serif;
   text-align: center;
@@ -403,7 +403,7 @@ header {
   padding: 30px 25px;
   border-radius: 12px;
   text-align: left;
-  box-shadow: 0 10px 25px rgba(0, 0, 0, 8%);
+  box-shadow: 0 10px 25px #00000014;
 }
 
 /* Light Card */
@@ -444,7 +444,7 @@ header {
 
 .card-blue hr {
   border: none;
-  border-top: 1px solid rgba(255, 255, 255, 30%);
+  border-top: 1px solid #FFFFFF40;
   margin: 20px 0;
 }
 
@@ -608,7 +608,7 @@ footer {
 .footer-cta hr {
   margin-top: 25px;
   border: none;
-  border-top: 1px solid rgba(255, 255, 255, 30%);
+  border-top: 1px solid #FFFFFF40;
 }
 
 /* Bottom Section */
@@ -616,7 +616,7 @@ footer {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border-top: 1px solid rgba(255, 255, 255, 25%);
+  border-top: 1px solid #FFFFFF40;
   padding-top: 20px;
   flex-wrap: wrap;
   gap: 20px;

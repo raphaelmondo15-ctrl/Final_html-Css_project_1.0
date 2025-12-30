@@ -11,6 +11,15 @@ body {
   margin: auto;
 }
 
+.btn-primary {
+  background-color: #4f9cf9;
+  border-radius: 8px;
+  padding: 16px 24px;
+  border: none;
+  cursor: pointer;
+}
+
+
 header {
   background-color: #043873;
   padding: 16px 220px;
@@ -42,14 +51,6 @@ header {
   border: none;
 }
 
-.btn-try {
-  background-color: #4f9cf9;
-  border-radius: 8px;
-  padding: 16px 24px;
-  gap: 10;
-  border: none;
-}
-
 .container-hero h2 {
   font-size: 42px;
   margin-bottom: 20px;
@@ -68,14 +69,6 @@ header {
   display: flex;
   justify-content: space-evenly;
   padding: 140px 220px;
-}
-
-.management .button {
-  background-color: #4f9cf9;
-  border-radius: 8px;
-  padding: 16px 24px;
-  gap: 10;
-  border: none;
 }
 
 .m-work {
@@ -110,14 +103,6 @@ header {
   padding: 140px 220px;
 }
 
-.extension .button {
-  background-color: #4f9cf9;
-  border-radius: 8px;
-  padding: 16px 24px;
-  gap: 10;
-  border: none;
-}
-
 .costomise {
   background-color: #f8fafc;
   color: black;
@@ -134,15 +119,6 @@ header {
 
 .costomise p {
   font-size: 1rem;
-  margin: 25px;
-}
-
-.costomise .button {
-  background-color: #4f9cf9;
-  border-radius: 8px;
-  padding: 16px 24px;
-  gap: 10;
-  border: none;
   margin: 25px;
 }
 
@@ -302,14 +278,6 @@ header {
   margin-bottom: 25px;
 }
 
-.button {
-  background-color: #4f9cf9;
-  border-radius: 8px;
-  padding: 16px 24px;
-  gap: 10;
-  border: none;
-}
-
 .data {
   display: flex;
   align-items: center;
@@ -444,7 +412,7 @@ header {
 
 .card-blue hr {
   border: none;
-  border-top: 1px solid #FFFFFF40;
+  border-top: 1px solid #ffffff40;
   margin: 20px 0;
 }
 
@@ -608,7 +576,7 @@ footer {
 .footer-cta hr {
   margin-top: 25px;
   border: none;
-  border-top: 1px solid #FFFFFF40;
+  border-top: 1px solid #ffffff40;
 }
 
 /* Bottom Section */
@@ -616,7 +584,7 @@ footer {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border-top: 1px solid #FFFFFF40;
+  border-top: 1px solid #ffffff40;
   padding-top: 20px;
   flex-wrap: wrap;
   gap: 20px;

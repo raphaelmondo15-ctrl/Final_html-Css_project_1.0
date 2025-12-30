@@ -1,6 +1,6 @@
 # THE LANDING PAGE
 
-This landing page is a modern, professional website designed to show a digital
+This landing page is a modern, professional site designed to show a digital
 productivity or business management platform. It features a strong hero section
 with clear calls-to-action, followed by structured sections that highlight key
 features, customization options, pricing plans, testimonials, trusted sponsors,

@@ -1,3 +1,5 @@
+/** @format */
+
 * {
   margin: 0;
   padding: 0;
@@ -490,6 +492,14 @@ header {
   filter: brightness(0) invert(1); /* Makes icons white */
 }
 
+.design-container {
+	display: flex;
+}
+
+.design-container div {
+	margin: auto;
+}
+
 /* Footer */
 footer {
   background-color: #043873; /* Deep blue */
@@ -710,7 +720,7 @@ footer {
   .card,
   .card-2 {
     width: 100%;
-    max-width: 340px;
+    max-width: 300px;
     transform: none;
   }
 

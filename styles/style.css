@@ -9,7 +9,6 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   line-height: 1.6;
   background-color: #f8fafc;
-  /* max-width: 2450px; */
   margin: auto;
 }
 
@@ -497,7 +496,7 @@ header {
 }
 
 .design-container div {
-	margin: auto;
+  margin: auto;
 }
 
 /* Footer */
@@ -634,9 +633,9 @@ footer {
    ========================= */
 @media (max-width: 768px) {
   /* GENERAL */
-  /* body {
+  body {
     max-width: 100%;
-  } */
+  }
 
   section,
   header,
